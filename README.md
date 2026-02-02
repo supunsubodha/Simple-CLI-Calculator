@@ -43,6 +43,7 @@ The calculator is designed to be user-friendly:
 If you enter a letter instead of a number, the program will prompt you to enter a valid number again without crashing.
 
 If you attempt to divide by zero, it will catch the error and notify you.
+
 📝 License
 This project is open-source and available under the MIT License.
 
